@@ -52,5 +52,6 @@ public final static String API_KEY = "81a26c8f0de407b94623e9f43e825679";
 
 Please fork this repository and contribute back. Any contributions, large or small, major or minor features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed.
 
-### Created by Arnav Kumar Patel (CSE Department)
+### Created by Arnav Kumar Patel
+School of Computer Science & Engineering
 GitHub: [arnav538](https://github.com/arnav538)
